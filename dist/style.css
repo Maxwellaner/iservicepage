@@ -1,0 +1,9 @@
+#app {
+  /* background-image: url("fundo.jpg");
+  background-repeat: round;
+  background-size: unset; */
+
+  background-color: #5f3eb3;
+  width: 100vw;
+  height: 100vh;
+}
